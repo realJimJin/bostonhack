@@ -1,2 +1,2 @@
-# bostonhack
+# HackForGood
 PLEASE BRAINSTORM BELOW
